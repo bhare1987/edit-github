@@ -6,7 +6,7 @@ description: This is the homepage description.
 
 <header class="welcome" data-stellar-background-ratio="0.5">
   <div class="text-vertical-center">
-    <h1>Welcome to {{ stache.config.product_name_short }}</h1>
+    <h1>TEST {{ stache.config.product_name_short }}</h1>
     <h2>See the h1 tag above?  'Your New Website' can be changed by changing the 'product_name_short' YAML variable within this site's stache.yml file.</h2>
     <ul class="list-inline">
       <li>
